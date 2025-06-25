@@ -42,6 +42,8 @@ Obs: Node.js para backend e Vanilla JS para frontend
   
 ## 💎 Contribuições 
 
+Contribuições são bem-vindas! Sinta-se à vontade para clonar este repositório, sugerir melhorias ou relatar problemas.
+
 >Clone esse repositório
 
 >Instale as dependências
